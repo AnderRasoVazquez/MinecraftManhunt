@@ -1,0 +1,9 @@
+name: ManHunt
+version: 1.0
+author: Ander Raso Vázquez
+main: com.github.anderrasovazquez.manhunt.Main
+description: Track "hunted" with compassion
+
+commands:
+  manhunt:
+    description: Start hunting player
